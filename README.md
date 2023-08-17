@@ -12,7 +12,7 @@
 
 Neofetch-like System Information Display is a command-line application that gathers and presents system information in a visually appealing ASCII art style. Inspired by Neofetch, this application provides users with an easy way to view key system details, making it useful for system administrators, enthusiasts, and anyone curious about their computer's configuration.
 
-![](screenshots/Screenshot 2023-03-02 012807.png)
+![]("screenshots/Screenshot 2023-03-02 012807.png")
 
 ## Features
 
